@@ -15,7 +15,7 @@ namespace DatabaseFinalProject
 {
     public partial class Form1 : Form
     {
-        public SqlConnection connection = new SqlConnection("Data Source=sqldatabasefinal.database.windows.net;Initial Catalog=Database_Final;Persist Security Info=True;User ID=*************;Password=**********");
+        public SqlConnection connection = new SqlConnection("Data Source=sqldatabasefinal.database.windows.net;Initial Catalog=Database_Final;Persist Security Info=True;User ID=Teddy;Password=Derrz2017!");
         public SqlCommand cm;
         public Form1()
         {
