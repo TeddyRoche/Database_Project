@@ -2,3 +2,5 @@
 This is a C# Form project made in Visual Studio <br/>
 I created a database on Microsoft SQL Server Management Studio <br/>
 You can download the .exe file and you don't have to do anything else just run it <br/>
+You will need to redownlaod if .exe wont open<br/>
+The Server Access times out.
